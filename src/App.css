@@ -1,0 +1,22 @@
+#pdfviewer {
+  width: 600px;
+  margin: 0 auto;
+}
+#pdfviewer .viewer-layout-toolbar {
+  background: #000;
+  color: #fff;
+}
+
+#pdfviewer .viewer-icon{
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+#pdfviewer .viewer-zoom-popover-target-arrow {
+  border-color: rgb(255 255 255 / 90%) transparent transparent;
+}
+
+#pdfviewer .viewer-menu-item-label, #pdfviewer .viewer-search-popover-label, #pdfviewer .viewer-menu, #pdfviewer .viewer-menu .viewer-icon{
+  color: #000;
+  stroke: #000;
+}
